@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @lordofthrall
+- 👀 I’m interested in cloud infrastructure, web app developing, League of Legends, and 19th Century military history ...
+- 🌱 I’m currently learning MERN Stack & Azure...
+- 📫 How to reach me: jarrett.trey@gmail.com ...
+
+<!---
+lordofthrall/lordofthrall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
